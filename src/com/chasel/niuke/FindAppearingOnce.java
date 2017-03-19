@@ -37,7 +37,6 @@ public class FindAppearingOnce {
 	public static void main(String[] args) {
 		String s = "google";
 		StringBuilder sb = new StringBuilder();
-		sb.append(ch);
 		System.out.println(FirstAppearingOnce(s));
 	}
 }
